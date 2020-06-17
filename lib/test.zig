@@ -5,5 +5,7 @@ pub fn main() !void {
     std.debug.warn("oi", .{});
     if('a' > 25) {
         std.debug.warn("hmm", .{});
+        for(items) |item| {
+        }
     }
 }
