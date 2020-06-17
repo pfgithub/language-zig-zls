@@ -2,7 +2,7 @@
   "name": "language-zig",
   "main": "./lib/language-zig",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Zig syntax highlighting and diagnostics support",
   "keywords": [],
   "repository": "https://github.com/pfgithub/language-zig",
   "license": "MIT",
