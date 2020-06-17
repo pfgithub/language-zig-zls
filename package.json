@@ -1,8 +1,8 @@
 {
-  "name": "language-zig",
+  "name": "language-zig-zls",
   "main": "./lib/language-zig",
   "version": "0.0.0",
-  "description": "Zig syntax highlighting and diagnostics support",
+  "description": "Zig syntax highlighting and zls diagnostics support",
   "keywords": [],
   "repository": "https://github.com/pfgithub/language-zig",
   "license": "MIT",
