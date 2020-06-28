@@ -6,6 +6,9 @@ pub fn main() !void {
     if('a' > 25) {
         std.debug.warn("hmm", .{});
         for(items) |item| {
+            // comment
+            //// test comment
+            //
         }
     }
 }

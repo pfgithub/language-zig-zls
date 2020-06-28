@@ -479,7 +479,7 @@
           "name": "comment.line.todo.zig"
         },
         {
-          "begin": "//[^/]*",
+          "begin": "//(?!\\/)",
           "end": "$\\n?",
           "name": "comment.line.zig"
         }
